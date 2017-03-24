@@ -1,6 +1,6 @@
 # spacemacs-private-layers
 
-=============Emacs============
+========= Current Buffer ================
 ```
 1,
 2,
@@ -10,8 +10,8 @@
 6,
 ```
 
-concat by 4 lines: 
-=============Emacs===========
+
+============= concat by 4 lines ===========
 ```
 1,2,3,4
 5,6
